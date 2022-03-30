@@ -3,7 +3,9 @@ I love curating already curated things. Don't stare, help me instead.
 
 ## Who am I? and What is this?
 
-Hi, my name is Storm⚡. I love collecting things. Right now, there are several curated list on the internet, on github, everywhere. *phewww*
+Hi, my name is Storm⚡. I love collecting things. 
+
+Right now, there are several curated list on the internet, on github, everywhere. *phewww*
 
 God knows this list are like ice water to a desert traveller 🥺
 
@@ -15,6 +17,11 @@ Everything. Yes! The entire ecosystem 🕸️
 
 So LFG 🚀
 
+## Table of Contents
+- Item 1
+- Item 2
+- Item-i-lost-count
+
 ## Contribution
 Here's a rather short list of steps to contribute.
 
@@ -25,17 +32,26 @@ It's [MIT](https://blackblackdoodle.com) by the way.
 
 ## The List
 
-[A](https://123.com)
+### [A](https://123.com)
 
-<details><summary>Awesome-shiny-thing</summary>
+#### Awesome Lists 
+- [Awesome-shiny-thing]()  <br />
+  Slos fjakldf akdf;a;dfa adkfa; adfa;k adfak; adfjka;d adkf;afd adfja;dkf akdfja;kf akdaf;jf
   
-  <!---Description -->
- > somehing somwthing something by this person
-  
-  
-  <!--- Tags --->
-  > Tags: Javascript, newbie, serverside
-</details>
+ - [Awesome-wimpy-thing]() <br />
+   kdfa;kd adkfaj; dfkajfkj dfjakf;a dfjaksdf; dfjak;f dfaksf;j 
 
+[(Back to top)](#table-of-contents)
+
+---
+
+### [B](https://123.com)
+
+#### Badass 
+- [Broken-things]() <br />
+  Slos fjakldf akdf;a;dfa adkfa; adfa;k adfak; adfjka;d adkf;afd adfja;dkf akdfja;kf akdaf;jf 
+  
+ - [Boodge-things]() <br />
+   kdfa;kd adkfaj; dfkajfkj dfjakf;a dfjaksdf; dfjak;f dfaksf;j 
 
 [(Back to top)](#table-of-contents)
